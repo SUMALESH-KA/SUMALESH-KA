@@ -12,11 +12,15 @@
 
 
 <div align="center">
- I am a developer who likes to write software and tinker around with technology.
-I enjoy front-ending with Flutter, back-ending with Go and automating with Python.
-Steve Jobs is a big inspiration in things I build. One of the things I take forward
-with all my work is to treat them like art. Steve treated all the products that Apple built
-as art that not just looks great but also works great.
+
+👩🏻‍💻 Software Engineer sharing about my journey and learnings in tech <br>
+👩🏻‍🎓 Studied Computer Science at the University of Otago, New Zealand <br>
+🎨 Making videos about Computer Science, tech, and productivity on YouTube <br>
+🌷 #learninginpublic in my digital garden <br>
+💭 Currently learning about data analytics and dataviz!
+
+
+
  </div>
  <div>
      <br>
