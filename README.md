@@ -18,25 +18,24 @@ I enjoy front-ending with Flutter, back-ending with Go and automating with Pytho
 Steve Jobs is a big inspiration in things I build. One of the things I take forward
 with all my work is to treat them like art. Steve treated all the products that Apple built
 as art that not just looks great but also works great.
-
-
-> Design isn't just what it looks like and feels like — design is how it works.
-
-
  </div>
- 
-<div align="center"> 
-  <a href="mailto:pedro.sales.muniz@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://salesp07.github.io" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a>
-</div>
+ <div>
+     <br>
+       > Design isn't just what it looks like and feels like — design is how it works🎨.
+     
+ </div>
 
+<div align="center" > 
+
+    
+  :mailbox: Reach me out!
+  <br>
+[![Twitter Badge](https://img.shields.io/badge/-@Leetcode-orange?style=flat&logo=twitter&logoColor=white&link=https://leetcode.com/u/SUMALESH_K_A/)](https://leetcode.com/u/SUMALESH_K_A/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumalesh/) 
+[![Mail Badge](https://img.shields.io/badge/-@Instagram-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/sumalesh_14__?igsh=MWF4a3NrcW1jNm9ucQ%3D%3D&utm_source=qr)
+[![Mail Badge](https://img.shields.io/badge/-Gmail-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:sumaleshka@gmail.com)
+</div>
+    
  <hr/>
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
