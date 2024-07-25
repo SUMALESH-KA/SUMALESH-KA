@@ -11,20 +11,20 @@
 <h3 align="center">FULL STACK DEVELOPER</h3>
 
 
-<div align="center">
+<div align="center" font=Righteous>
 
-👩🏻‍💻 Software Engineer sharing about my journey and learnings in tech <br>
-👩🏻‍🎓 Studied Computer Science at the University of Otago, New Zealand <br>
-🎨 Making videos about Computer Science, tech, and productivity on YouTube <br>
-🌷 #learninginpublic in my digital garden <br>
-💭 Currently learning about data analytics and dataviz!
-
-
+👋 Hi, I'm Sumalesh from Tamil Nadu, India. I'm a passionate individual with a deep interest in technology and software development. My skills include proficiency in Python, C, HTML, and CSS. I'm currently pursuing my academic journey and actively seeking opportunities to apply my knowledge and contribute to innovative projects. I'm dedicated to learning and mastering new languages and frameworks, with a particular focus on enhancing user experiences through my work. Let's connect and collaborate to create impactful solutions together! 🚀
 
  </div>
+<div>
+    <strong>👩🏻‍💻 Software Engineer sharing about my journey and learnings in tech</strong><br>
+    <strong>👩🏻‍🎓 Studing B.Tech Information Technology at the Bannari Amman institute of Technology, Erode</strong><br>
+    <strong>💭 Currently learning about Javascript</strong>
+</div>
+
  <div>
      <br>
-       > Design isn't just what it looks like and feels like — design is how it works🎨.
+       > Design isn't just what it looks like and feels like - design is how it works🎨.
      
  </div>
 
