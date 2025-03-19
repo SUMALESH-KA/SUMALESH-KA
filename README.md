@@ -10,13 +10,12 @@
 
 <div align="center" font=Righteous>
 
-👋 Hi, I'm Sumalesh from Tamil Nadu, India. I'm a passionate individual with a deep interest in technology and software development. My skills include proficiency in Python, C, HTML, and CSS. I'm currently pursuing my academic journey and actively seeking opportunities to apply my knowledge and contribute to innovative projects. I'm dedicated to learning and mastering new languages and frameworks, with a particular focus on enhancing user experiences through my work. Let's connect and collaborate to create impactful solutions together! 🚀
+👋 Hi, I'm Sumalesh from Tamil Nadu, India. I'm a passionate Java Developer with expertise in Java, Spring, Spring Boot, and React. I'm currently pursuing my academic journey and constantly seeking opportunities to apply my knowledge and contribute to innovative and scalable projects. I am dedicated to learning and mastering new technologies, with a particular focus on building robust applications that deliver exceptional user experiences. Let's connect and collaborate to create impactful solutions together! 🚀
 
  </div>
 <div>
     <strong>👩🏻‍💻 Software Engineer sharing about my journey and learnings in tech</strong><br>
     <strong>👩🏻‍🎓 Studing B.Tech Information Technology at the Bannari Amman institute of Technology, Erode</strong><br>
-    <strong>💭 Currently learning about Javascript</strong>
 </div>
 
  <div>
